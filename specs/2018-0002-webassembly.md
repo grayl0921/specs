@@ -1,6 +1,7 @@
 # WebAssembly Smart Contracts
 
-    Number: ella-2018-0002
+    Number: gray
+    -2018-0002
     Title: WebAssembly Smart Contracts
     Author: "ellaismer" <ellaismer@protonmail.ch>
     Status: Proposed
